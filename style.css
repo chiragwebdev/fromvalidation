@@ -1,0 +1,10 @@
+.formtodata .login-form{
+    display: block;
+}
+.formtodata .signup-form{
+    display: none;
+}
+
+.login-form{
+    display: none;
+}
